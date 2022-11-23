@@ -57,3 +57,13 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+footer {
+text-align: center;
+font-size: 30px;
+margin-top: 15px;
+margin-bottom: 15px;
+background-color: aquamarine;
+width: 100%;
+
+}
